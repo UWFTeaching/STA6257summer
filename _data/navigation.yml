@@ -1,7 +1,7 @@
 - name: Syllabus
   link: /STA6257.html
-- name: Project Instructions (Canvas)
-  link: https://uwf.instructure.com/courses/44562/pages/project-instructions?module_item_id=2586463
+- name: Project Instructions 
+  link: /instructions.html
 - name: Template for project report
   link: https://github.com/acohenstat/STA6257_Project
 - name: Previous Projects
