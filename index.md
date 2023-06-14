@@ -23,4 +23,4 @@ show_sidebar: false
 |      | W  |  Team research (no meeting) | 
 | 7   | M  |  Presentations | 
 |      | W   |  Presentations | 
-| 8   |   |  | Final paper due |
+| 8     |  | Final paper due |
