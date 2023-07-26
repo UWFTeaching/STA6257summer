@@ -1,6 +1,6 @@
 ## Methodological Projects
 
-You will choose one area to work in. Note that these are likely new-to-you topics. You will first learn about the topic and demonstrate how to apply the new methodology to a real dataset. The final deliverables from the project will be a written paper and an oral presentation with slides.
+You need to select one area to focus on. Keep in mind that it may be a subject that you are not familiar with. Your initial task is to study the topic and show how to utilize the new approach on an actual dataset. The result of the project will include a written report and a presentation slide.
 
 The methodologies to consider:
 
@@ -28,5 +28,5 @@ You are free to propose a **topic** if there is something you are interested in 
 
 #### Useful links
 
-- Data Sets: https://github.com/acohenstat/datasetsLinks to an external site.
-- GitHub Page for the project: https://github.com/acohenstat/STA6257_ProjectLinks to an external site.
+- Data Sets: [https://github.com/acohenstat/datasetsLinks](https://acohenstat.github.io/Datasets)
+- GitHub Page for the project: [https://github.com/acohenstat/STA6257_ProjectLinks to an external site.](https://github.com/acohenstat/STA6257_Project)https://github.com/acohenstat/STA6257_Project
